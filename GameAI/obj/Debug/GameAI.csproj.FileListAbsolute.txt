@@ -1,1 +1,5 @@
 E:\workspaceOrg2\DemoForOrgII_Engine\GameAI\GameAI\bin\Debug\GameAI.exe.config
+E:\workspaceOrg2\DemoForOrgII_Engine\GameAI\GameAI\bin\Debug\GameAI.exe
+E:\workspaceOrg2\DemoForOrgII_Engine\GameAI\GameAI\bin\Debug\GameAI.pdb
+E:\workspaceOrg2\DemoForOrgII_Engine\GameAI\GameAI\obj\Debug\GameAI.exe
+E:\workspaceOrg2\DemoForOrgII_Engine\GameAI\GameAI\obj\Debug\GameAI.pdb
